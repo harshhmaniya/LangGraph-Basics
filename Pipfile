@@ -12,6 +12,8 @@ openai = "*"
 dotenv = "*"
 langchain-ollama = "*"
 langchain-groq = "*"
+langchain-community = "*"
+wikipedia = "*"
 
 [dev-packages]
 
